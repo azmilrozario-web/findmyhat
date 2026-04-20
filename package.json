@@ -1,0 +1,24 @@
+{
+  "name": "h_assessment_structure",
+  "version": "1.0.0",
+  "description": "Javascript console-based interactive game",
+  "homepage": "https://github.com/azmilrozario-web/findmyhat#readme",
+  "bugs": {
+    "url": "https://github.com/azmilrozario-web/findmyhat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmilrozario-web/findmyhat.git"
+  },
+  "license": "ISC",
+  "author": "Rozario",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
